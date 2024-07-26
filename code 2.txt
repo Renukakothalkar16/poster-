@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    printf("****************************************\n");
+    printf("*                                      *\n");
+    printf("*          Super Sale Event             *\n");
+    printf("*                                      *\n");
+    printf("*   This Weekend Only!                  *\n");
+    printf("*                                      *\n");
+    printf("*   - Up to 50%% off on all items       *\n");
+    printf("*   - Free shipping on orders over $50  *\n");
+    printf("*   - Limited time offers               *\n");
+    printf("*                                      *\n");
+    printf("*   Don't miss out! Visit us at         *\n");
+    printf("*   www.example.com                     *\n");
+    printf("*                                      *\n");
+    printf("****************************************\n");
+
+    return 0;
+}
